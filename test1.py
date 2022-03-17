@@ -1,3 +1,3 @@
 print("Hello world")
-print("how are you")
+print("how you")
 print("this change for checking connection")
